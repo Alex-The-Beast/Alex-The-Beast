@@ -6,7 +6,19 @@
 
 ![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
 
-### <b><h1>Hy, I'm Gaurav! , Nice to meet you!  👋  <h1></b> 
+### <b><h1>Hey, I'm Gaurav ! , Nice to meet you!  👋  <h1></b> 
+
+###
+
+<div align="center">
+  <img height="" src="https://github.com/Alex-The-Beast/Alex-The-Beast/blob/main/abtrax-banner.png?raw=true"  />
+</div>
+
+###
+
+<h2 align="center">About Me</h2>
+
+###
 
 ## 💫 About Me:
 🔭 I’m currently working on Full Stack Web Development and Gen-AI Looker Studio projects for collaboration.<br>👯 I’m looking to collaborate on Python & some AI projects.<br>🤝 Seeking guidance in AI fundamentals and Web developement.<br>🌱 I’m currently learning Advanced Python, and Artificial Intelligence Fundamentals.<br>⚡ Fun fact: I code ☕️ caffeinated!
