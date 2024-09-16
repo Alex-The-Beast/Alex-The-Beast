@@ -33,7 +33,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Alex-The-Beast/Alex-The-Beast/output/github-contribution-grid-snake-dark.svg)
+![Snake animation Contribution Graph](https://raw.github.com/Alex-The-Beast/Alex-The-Beast/output/github-contribution-grid-snake-dark.svg)
 
 
 </div>
