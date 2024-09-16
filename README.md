@@ -1,6 +1,10 @@
 <div align="center">
 
-![MasterHead]
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
 
 ### <b>Hi There, I'm Gaurav Kumar 👋</b> 
 
@@ -33,7 +37,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Alex-The-Beast/Alex-The-Beast/output/github-contribution-grid-snake-dark.svg)
+
 
 
 </div>
