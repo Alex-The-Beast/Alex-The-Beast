@@ -8,19 +8,9 @@
 
 ### <b><h1>Hey, I'm Gaurav ! , Nice to meet you!  👋  <h1></b> 
 
-###
 
-<div align="center">
-  <img height="" src="https://github.com/AbTrax/AbTrax/blob/main/abtrax-banner.png?raw=true"  />
-</div>
 
-###
-
-<h2 align="center">About Me</h2>
-
-###
-
-## 💫 About Me:
+##<h2> 💫 About Me:<h2>
 🔭 I’m currently working on Full Stack Web Development and Gen-AI Looker Studio projects for collaboration.<br>👯 I’m looking to collaborate on Python & some AI projects.<br>🤝 Seeking guidance in AI fundamentals and Web developement.<br>🌱 I’m currently learning Advanced Python, and Artificial Intelligence Fundamentals.<br>⚡ Fun fact: I code ☕️ caffeinated!
 ## 👀 Profile Views:
 [![](https://visitcount.itsvg.in/api?id=Alex-The-Beast&icon=6&color=5)](https://visitcount.itsvg.in)
