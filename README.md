@@ -1,6 +1,6 @@
 <div align="center">
 
-![MasterHead](https://share.creavite.co/JsGTiL0KoejAByNM.gif)
+![MasterHead]
 
 ### <b>Hi There, I'm Gaurav Kumar 👋</b> 
 
